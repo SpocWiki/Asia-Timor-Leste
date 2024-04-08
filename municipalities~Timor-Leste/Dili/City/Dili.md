@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::125.5667] 
-[geo-lat::-8.566667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::125.5667] 
+[has_place_latitude::-8.566667] 
 [name::Dili] 
 State ::  
 Country :: Timor-Leste] 
