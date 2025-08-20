@@ -1,37 +1,38 @@
 ---
 location:
-- -8.56667
-- 125.567
+  - -8.56667
+  - 125.567
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27038
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Timor-Leste
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Timor-Leste
-- تيمور- ليشتي
-- 东帝汶
-- Тимор-Лешти
-- the Democratic Republic of Timor-Leste
-- la República Democrática de Timor-Leste
+  - Timor-Leste
+  - تيمور- ليشتي
+  - 东帝汶
+  - Тимор-Лешти
+  - the Democratic Republic of Timor-Leste
+  - la República Democrática de Timor-Leste
 Languages:
-- tet
-- pt-TL
-- id
-- en
+  - tet
+  - pt-TL
+  - id
+  - en
 ---
 
 

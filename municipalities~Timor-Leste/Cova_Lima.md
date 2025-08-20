@@ -1,30 +1,29 @@
 ---
-location: [ -9.3 , 125.2 ] 
+location:
+  - -9.3
+  - 125.2
 type: geo-Region
 title: Cova_Lima
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Cova_Lima
-
+  - Cova_Lima
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Cova_Lima
