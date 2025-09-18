@@ -106,7 +106,7 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ```leaflet
 id: Timor-Leste
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Timor-Leste//
 markerFolder: ./Timor-Leste//
