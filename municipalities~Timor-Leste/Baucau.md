@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Baucau
 location:
   - -8.6
   - 126.5
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Baucau
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Baucau

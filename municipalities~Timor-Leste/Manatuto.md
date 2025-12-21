@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Manatuto
 location:
   - -8.8
   - 125.9
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Manatuto
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Manatuto

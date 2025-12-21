@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lautem
 location:
   - -8.5
   - 127
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Lautem
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Lautem

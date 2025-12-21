@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Aileu
 location:
   - -8.7
   - 125.6
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Aileu
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Aileu

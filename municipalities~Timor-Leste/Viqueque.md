@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Viqueque
 location:
   - -8.8
   - 126.3
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Viqueque
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Viqueque

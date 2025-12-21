@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Timor-Leste
+  - تيمور- ليشتي
+  - 东帝汶
+  - Тимор-Лешти
+  - the Democratic Republic of Timor-Leste
+  - la República Democrática de Timor-Leste
+  - ReadMe
 location:
   - -8.56667
   - 125.567
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Timor-Leste
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Timor-Leste
-  - تيمور- ليشتي
-  - 东帝汶
-  - Тимор-Лешти
-  - the Democratic Republic of Timor-Leste
-  - la República Democrática de Timor-Leste
+publishDate: ''
+expiryDate: ''
 Languages:
   - tet
   - pt-TL

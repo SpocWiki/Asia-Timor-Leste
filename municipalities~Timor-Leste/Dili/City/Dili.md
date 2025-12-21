@@ -1,6 +1,8 @@
 ---
 aliases:
   - Díli
+  - Dili
+has_id_wikidata: Q9310
 location:
   - -8.566667
   - 125.5667
@@ -14,38 +16,37 @@ tags:
 SpocWebEntityId: 35954
 isDeleted: false
 confidential: public
-has_id_wikidata: Q9310
 capital_of:
-  - "[[_Standards/WikiData/WD~Portuguese_Timor,142965]]"
-  - "[[_Standards/WikiData/WD~Dili_Municipality,860901]]"
-  - "[[_Standards/WikiData/WD~Timor_Timur,1732464]]"
-  - "[[_Standards/WikiData/WD~Timor_Leste,574]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Banda_Sea,171510]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Dili_Municipality,860901]]"
+  - '[[_Standards/WikiData/WD~Portuguese_Timor,142965]]'
+  - '[[_Standards/WikiData/WD~Dili_Municipality,860901]]'
+  - '[[_Standards/WikiData/WD~Timor_Timur,1732464]]'
+  - '[[_Standards/WikiData/WD~Timor_Leste,574]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Banda_Sea,171510]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dili_Municipality,860901]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-member_of: "[[_Standards/WikiData/WD~União_das_Cidades_Capitais_Luso_Afro_Américo_Asiáticas,4005967]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~national_capital,108178728]]'
+member_of: '[[_Standards/WikiData/WD~União_das_Cidades_Capitais_Luso_Afro_Américo_Asiáticas,4005967]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_East_Timor,15884714]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Maritime_transport,19753599]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Melanesia,21830361]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32652907,32652907]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]'
+  - '[[_Standards/WikiData/WD~WikiProject_East_Timor,15884714]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Maritime_transport,19753599]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Melanesia,21830361]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32652907,32652907]]'
 coordinate_location: Point(125.578333333 -8.553611111)
-country: "[[_Standards/WikiData/WD~Timor_Leste,574]]"
+country: '[[_Standards/WikiData/WD~Timor_Leste,574]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Lisbon,597]]"
-  - "[[_Standards/WikiData/WD~Canberra,3114]]"
-  - "[[_Standards/WikiData/WD~Sydney,3130]]"
-  - "[[_Standards/WikiData/WD~Darwin,11568]]"
-  - "[[_Standards/WikiData/WD~Coimbra,45412]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+09_00,7041]]"
+  - '[[_Standards/WikiData/WD~Lisbon,597]]'
+  - '[[_Standards/WikiData/WD~Canberra,3114]]'
+  - '[[_Standards/WikiData/WD~Sydney,3130]]'
+  - '[[_Standards/WikiData/WD~Darwin,11568]]'
+  - '[[_Standards/WikiData/WD~Coimbra,45412]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
 elevation_above_sea_level: 11
 GitHub_topic: dili
 area: 178.62
-WOEID: "1047376"
+WOEID: 1047376
 population: 222323
 Commons_category: Dili
 demonym:
@@ -58,7 +59,7 @@ native_label:
 official_name:
   - Dili
   - Díli
-OmegaWiki_Defined_Meaning: "735073"
+OmegaWiki_Defined_Meaning: 735073
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aussenministerium%20und%20Avenida%20de%20Portugal.jpg
 inception: 1520-01-01T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bandeira%20quadrada%20Dili%201952-1975.svg
