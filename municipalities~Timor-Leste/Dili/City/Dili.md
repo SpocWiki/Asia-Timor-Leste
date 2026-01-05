@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1520-01-01 
 aliases:
   - Díli
   - Dili
