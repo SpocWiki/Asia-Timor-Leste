@@ -39,11 +39,18 @@ markerFolder: ./Manatuto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto|Manatuto]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.public|Manatuto.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.internal|Manatuto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.protect|Manatuto.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.private|Manatuto.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.personal|Manatuto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Manatuto.secret|Manatuto.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto|Manatuto]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto.public|Manatuto.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto.internal|Manatuto.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto.protect|Manatuto.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto.private|Manatuto.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto.personal|Manatuto.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Manatuto.secret|Manatuto.secret]] 
 

@@ -39,11 +39,18 @@ markerFolder: ./Dili/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Dili|Dili]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Dili.public|Dili.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Dili.internal|Dili.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Dili.protect|Dili.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Dili.private|Dili.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Dili.personal|Dili.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Dili.secret|Dili.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili|Dili]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili.public|Dili.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili.internal|Dili.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili.protect|Dili.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili.private|Dili.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili.personal|Dili.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili.secret|Dili.secret]] 
 

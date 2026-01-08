@@ -39,11 +39,18 @@ markerFolder: ./Baucau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Baucau|Baucau]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.public|Baucau.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.internal|Baucau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.protect|Baucau.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.private|Baucau.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.personal|Baucau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Baucau.secret|Baucau.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau|Baucau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau.public|Baucau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau.internal|Baucau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau.protect|Baucau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau.private|Baucau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau.personal|Baucau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Baucau.secret|Baucau.secret]] 
 

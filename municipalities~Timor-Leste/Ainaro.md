@@ -39,11 +39,18 @@ markerFolder: ./Ainaro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro|Ainaro]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.public|Ainaro.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.internal|Ainaro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.protect|Ainaro.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.private|Ainaro.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.personal|Ainaro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.secret|Ainaro.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro|Ainaro]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro.public|Ainaro.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro.internal|Ainaro.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro.protect|Ainaro.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro.private|Ainaro.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro.personal|Ainaro.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Ainaro.secret|Ainaro.secret]] 
 

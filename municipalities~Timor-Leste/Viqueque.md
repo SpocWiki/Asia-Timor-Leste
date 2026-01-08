@@ -39,11 +39,18 @@ markerFolder: ./Viqueque/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque|Viqueque]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.public|Viqueque.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.internal|Viqueque.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.protect|Viqueque.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.private|Viqueque.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.personal|Viqueque.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.secret|Viqueque.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque|Viqueque]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque.public|Viqueque.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque.internal|Viqueque.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque.protect|Viqueque.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque.private|Viqueque.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque.personal|Viqueque.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Viqueque.secret|Viqueque.secret]] 
 

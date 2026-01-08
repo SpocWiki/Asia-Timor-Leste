@@ -112,11 +112,18 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/License|License]] 
-- [[../_public/License.public|License.public]] 
-- [[../_internal/License.internal|License.internal]] 
-- [[../_protect/License.protect|License.protect]] 
-- [[../_private/License.private|License.private]] 
-- [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License|License]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License.public|License.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License.internal|License.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License.protect|License.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License.private|License.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License.personal|License.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/License.secret|License.secret]] 
 

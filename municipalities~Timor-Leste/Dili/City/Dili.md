@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 125.5667
+dv_has_place_latitude: -8.566667
+dv_name: Dili
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Dili,9310|WD~Dili,9310]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Dili,9310|WD~Dili,9310]]"
+
 has_time_started: 1520-01-01 
 aliases:
   - Díli
@@ -73,17 +82,17 @@ UN_LOCODE: TLDIL
 # [[Dili]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::125.5667] 
-[has_place_latitude::-8.566667] 
-[name::Dili] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: Timor-Leste] 
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Dili,9310|WD~Dili,9310]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -145,11 +154,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dili)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/City/Dili|Dili]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/City/Dili.public|Dili.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/City/Dili.internal|Dili.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/City/Dili.protect|Dili.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/City/Dili.private|Dili.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/City/Dili.personal|Dili.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/City/Dili.secret|Dili.secret]] 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili|Dili]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili.public|Dili.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili.internal|Dili.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili.protect|Dili.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili.private|Dili.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili.personal|Dili.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste/municipalities~Timor-Leste/Dili/City/Dili.secret|Dili.secret]] 
+
