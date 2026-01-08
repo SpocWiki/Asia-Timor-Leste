@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 125.5667
 dv_has_place_latitude: -8.566667
-dv_name: Dili
+dv_has_name_: Dili
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Dili,9310|WD~Dili,9310]]"
