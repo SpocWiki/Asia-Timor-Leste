@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 125.5667
 dv_has_place_latitude: -8.566667
-dv_has_name_: Dili
+dv_has_name: Dili
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Dili,9310|WD~Dili,9310]]"
@@ -85,7 +85,7 @@ UN_LOCODE: TLDIL
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: Timor-Leste] 
 [StateId::] 
