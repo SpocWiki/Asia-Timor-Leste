@@ -511,7 +511,7 @@ dv_UNTERM_Chinese_Formal: 东帝汶民主共和国
 dv_UNTERM_French_Formal: la République démocratique du Timor-Leste
 dv_UNTERM_Russian: Тимор-Лешти
 dv_UNTERM_Russian_Formal: Демократическая Республика Тимор-Лешти
-dv_Region_Name: '[[../../../../Asia|Asia]]'
+dv_Region_Name: '[[../../../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Timor-Leste]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -538,7 +538,7 @@ dv_ISO2: TP
 dv_ISO3: TMP
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~East_Timor,574|WD~East_Timor,574]]'
+  - '[[../../../../../../../WikiData/WD~East_Timor,574|WD~East_Timor,574]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste|Timor-Leste]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.public|Timor-Leste.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.internal|Timor-Leste.internal]]'
@@ -549,15 +549,15 @@ dv_is_:
 dv_has_name_de: Osttimor
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../../../Oceania|Oceania]]'
+dv_has_place_continent: '[[../../../../../Oceania|Oceania]]'
 dv_VehicleCode: TL
 dv_Alcohol-l: 0.9
-dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 125.567
 dv_has_place_latitude: -8.56667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~East_Timor,574|WD~East_Timor,574]]'
+- '[[../../../../../../../WikiData/WD~East_Timor,574|WD~East_Timor,574]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste|Timor-Leste]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.public|Timor-Leste.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.internal|Timor-Leste.internal]]'
